@@ -85,7 +85,7 @@ const questions = [
     {
         type: 'input',
         name: 'installation',
-        message: 'Please provide step-by-step installation instructions for your project. (Required)',
+        message: 'Please provide step-by-step installation instructions for your project.',
         validate: installInput => {
             if (installInput) {
                 return true;
@@ -123,7 +123,7 @@ const questions = [
     {
         type: 'input',
         name: 'test',
-        message: 'Please provide instructions on how to test the app. (Required)',
+        message: 'Please provide instructions on how to test the app.',
         validate: testInput => {
             if (testInput) {
                 return true;
