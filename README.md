@@ -1,5 +1,5 @@
 
-  # Pro Readme Generator
+  # Kilgore Pro Readme Generator
   
   
   ![badge](https://img.shields.io/badge/license-mit-blue)
@@ -19,19 +19,19 @@
   
   ## [Description](#table-of-contents) 
 
-  to create and format Readme files easliy
+  As a developer I want a readme generator to save time 
 
-  tired of doing this each project
+   As a developer I am tired of formatting these readme files every project
 
-  however they want
+  download the app and run it
 
   ## [Installation](#table-of-contents)
 
-  go to https://github.com/DKILGORE79/Pro_Readme_Generator and download the app. Unzip and install it somewhere on your system
+  go to https://github.com/DKILGORE79/Pro_Readme_Generator, download the app and unzipp it into desired directory
 
   ## [Usage](#table-of-contents)
 
-  open a command terminal, navigate to the apps directory and run node index.js
+  once unzipped, open the directory in a command line terminal and run node index.js
   
   
   
@@ -52,12 +52,12 @@
 
   ## [Tests](#table-of-contents)
 
-  just run it!
+  easist way to test it is run it and see of it works.
 
   ## [Questions](#table-of-contents)
 
   Please contact me using the following links:
 
-  [GitHub](https://github.com/dkilgore79)
+  [GitHub](https://github.com/Dkilgore79)
 
   [Email: derek.kilgore@gmail.com](mailto:derek.kilgore@gmail.com)
